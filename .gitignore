@@ -1,0 +1,6 @@
+.DS_Store
+code.iml
+__pycache__/
+*.pyc
+data.db
+.idea
